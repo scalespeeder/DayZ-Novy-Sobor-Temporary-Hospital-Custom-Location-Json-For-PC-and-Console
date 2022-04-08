@@ -1,6 +1,6 @@
 DayZ Novy Sobor Temporary Hospital For Console and PC json Mod Instructions & Terms Of Use
 
-Spawns a Temporary Hospital inside a habger  & related structures at  6995.96 / 8180.62 which is North of Novy Sobor on Chernarus.
+Spawns a Temporary Hospital inside a hanger  & related structures at  6995.96 / 8180.62 which is North of Novy Sobor on Chernarus.
 
 Limited Testing on PC Chernarus Local Server DAYZ Version 1.16 Apr 2021.
 
